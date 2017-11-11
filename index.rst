@@ -29,4 +29,4 @@ project is restricted and under guidelines defined by `Worldwide Technologies`_.
 Getting Started
 ---------------
 
-To get started refer to :doc:`Usage/Usage`_ and supported toolsets :doc:`Roles/Roles`_.
+To get started refer to :doc:`Usage/Usage` and supported toolsets :doc:`Roles/Roles`.
