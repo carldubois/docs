@@ -1,9 +1,9 @@
 WWT / F5 Automation
 ===================
 
-.. _Worldwide Technologies: http:www.wwt.com
+.. _Worldwide Technologies: http://www.wwt.com
 .. _F5 Networks: http://www.f5.com
-.. _GitHub Issues: http://github.com/carldubois/bigiq-cm-restapi-reference/issues
+.. _GitHub Issues: http://github.com/carldubois/docs/issues
 
 .. toctree::
    :hidden:
@@ -29,4 +29,4 @@ project is restricted and under guidelines defined by `Worldwide Technologies`_.
 Getting Started
 ---------------
 
-To get started refer to :doc:`Usage/Usage` and supported toolsets :doc:`Roles/Roles`.
+To get started refer to :doc:`Usage/Usage`_ and supported toolsets :doc:`Roles/Roles`_.
