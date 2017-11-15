@@ -9,8 +9,8 @@ WWT / F5 Automation
    :hidden:
    :maxdepth: 2
    
-   Usage/Usage
-   Roles/Roles
+   Usage\Usage
+   Roles\Roles
 
 Release Version: |release|
 
@@ -29,4 +29,4 @@ project is restricted and under guidelines defined by `Worldwide Technologies`_.
 Getting Started
 ---------------
 
-To get started refer to :doc:`Usage/Usage` and supported toolsets :doc:`Roles/Roles`.
+To get started refer to `Usage/Usage` and supported toolsets `Roles/Roles`.
