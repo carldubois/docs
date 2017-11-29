@@ -7,10 +7,11 @@ Welcome to F5/WWT Automation Docs's documentation!
 ==================================================
 
 .. toctree::
+   :hidden:
    :maxdepth: 2
    :caption: Contents:
 
-   F5-Automation/F5-Automation
+   F5-Automation/solution_overview.md
 
 Indices and tables
 ==================
