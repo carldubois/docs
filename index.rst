@@ -12,13 +12,6 @@ Welcome to F5/WWT Automation Docs's documentation!
 
    F5-Automation/F5-Automation
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
 Release Version: |release|
 
 Introduction
