@@ -10,7 +10,7 @@ Welcome to F5/WWT Automation Docs's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   F5-Automation/F5-Automation
 
 Indices and tables
 ==================
@@ -18,3 +18,14 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+Release Version: |release|
+
+Introduction
+------------
+
+Support
+-------
+
+Getting Started
+---------------
