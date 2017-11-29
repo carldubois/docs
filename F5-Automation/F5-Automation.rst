@@ -7,4 +7,4 @@ This guide provide an index into supported F5 automated workflows easing deploym
 .. toctree::
 	:maxdepth: 2
 
-	solution_overview	
+	solution_overview.md	
