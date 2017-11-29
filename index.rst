@@ -11,7 +11,7 @@ Welcome to F5/WWT Automation Docs's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   F5-Automation/solution_overview.md
+   F5-Automation/F5-Automation
 
 Indices and tables
 ==================
