@@ -637,30 +637,23 @@ Pool container. Steps to accomplish this task:
 
 1. Device Tab – select Add RegKey Pool
 
-.. figure:: bigiq-license.png?raw=true
-   :alt: Image
+.. image:: bigiq-license.png
 
-   Image
 
 2. Create a New Registration Key Pool
 
-.. figure:: bigiq-regkey.png?raw=true
-   :alt: Image
+.. image:: bigiq-regkey.png
 
-   Image
-Add a new RegKey or Import using a CSV file
+3. Add a new RegKey or Import using a CSV file
 
-.. figure:: bigiq-regkey-form.png?raw=true
-   :alt: Image
+.. image:: bigiq-regkey-form.png?raw=true
 
-   Image
-Activate the new license sku and add it to the RegKey Pool for
+
+4. Activate the new license sku and add it to the RegKey Pool for
 consumption.
 
-.. figure:: bigiq-regkey-pool-activate.png?raw=true
-   :alt: Image
+.. image:: bigiq-regkey-pool-activate.png
 
-   Image
 *Utility Pool Type*
 
 Device Tab – select Add License.
@@ -669,10 +662,9 @@ Device Tab – select Add License.
     or manually. Outward internet access is required to access F5
     license server.
 
-.. figure:: bigiq-license-utility.png?raw=true
-   :alt: Image
+.. image:: bigiq-license-utility.png
 
-   Image
+
 Installing OS for the Ansible Control Machine
 ---------------------------------------------
 
