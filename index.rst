@@ -1,32 +1,20 @@
-WWT / F5 Automation
-===================
+.. F5/WWT Automation Docs documentation master file, created by
+   sphinx-quickstart on Wed Nov 29 11:02:59 2017.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
 
-.. _Worldwide Technologies: http://www.wwt.com
-.. _F5 Networks: http://www.f5.com
-.. _GitHub Issues: http://github.com/carldubois/docs/issues
+Welcome to F5/WWT Automation Docs's documentation!
+==================================================
 
 .. toctree::
-   :hidden:
    :maxdepth: 2
-
-	Usage\Usage
-
-Release Version: |release|
-
-Introduction
-------------
-
-This documentation was developed by internal WWT developers describing the workflow for this F5 automation solution.
-
-Support
--------
-
-Please use `GitHub Issues`_ to report any bugs or feature requests.  This 
-project is restricted and under guidelines defined by `Worldwide Technologies`_.
+   :caption: Contents:
 
 
-Getting Started
----------------
 
-To get started refer to doc::`Usage/Usage` and supported toolsets doc::`Roles/Roles`.
+Indices and tables
+==================
 
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
